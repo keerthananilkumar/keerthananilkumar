@@ -31,6 +31,11 @@ I'm interested in building things that make complex ideas easier to understand, 
 ### 📌 My Philosophy
 
 > Learn something. Build something. Break something. Understand it. Build it better.
+---
+
+## 🐍 My Contribution Graph
+
+![Contribution Snake](https://raw.githubusercontent.com/keerthananilkumar/keerthananilkumar/output/github-contribution-grid-snake.svg)
 
 ---
 
