@@ -52,3 +52,8 @@ I'm interested in building things that make complex ideas easier to understand, 
 ---
 
 *Always curious. Always building.* 🖤
+---
+
+## 👀 Profile Visitors
+
+![Visitors](https://komarev.com/ghpvc/?username=keerthananilkumar&color=orange&style=for-the-badge)
