@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hey, I'm Keerthana! 👋
 
-<!--
-**keerthananilkumar/keerthananilkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mechanical Engineering Student | Developer | Curious Builder
 
-Here are some ideas to get you started:
+I love exploring the intersection of engineering, technology, creativity and design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in building things that make complex ideas easier to understand, explore and experience.
+
+---
+
+### 🛠️ Interests & Technologies
+
+- Mechanical Engineering
+- Web Development
+- CAD & 3D Modelling
+- Engineering Simulations
+- Game Development
+- Robotics & Automation
+
+---
+
+### 🌱 Currently Learning
+
+- HTML, CSS & JavaScript
+- Godot
+- AutoCAD & SolidWorks
+- Engineering Design and Simulation
+
+---
+
+### 📌 My Philosophy
+
+> Learn something. Build something. Break something. Understand it. Build it better.
+
+---
+
+### 📫 Connect With Me
+
+- GitHub: [@keerthananilkumar](https://github.com/keerthananilkumar)
+
+---
+
+*Always curious. Always building.* 🖤
