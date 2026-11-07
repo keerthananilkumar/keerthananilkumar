@@ -32,7 +32,13 @@ I'm interested in building things that make complex ideas easier to understand, 
 
 > Learn something. Build something. Break something. Understand it. Build it better.
 ---
+---
 
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keerthananilkumar&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keerthananilkumar&layout=compact&theme=tokyonight&hide_border=true)
 ## 🐍 My Contribution Graph
 
 ![Contribution Snake](https://raw.githubusercontent.com/keerthananilkumar/keerthananilkumar/output/github-contribution-grid-snake.svg)
