@@ -290,40 +290,59 @@ and the fascinating world of motion.
 
 <br>
 
-<!-- CURRENTLY LEARNING -->
 
+<!-- THE LEARNING GARDEN -->
 
-
-<!-- LEARNING -->
-
-<h3>🌱 Growing, Learning & Discovering</h3>
+<h3>🌱 The Learning Garden</h3>
 
 <p>
-  <sub>There is always something new around the corner.</sub>
+  <sub>A little progress every day. A little curiosity in everything.</sub>
 </p>
+
+<br>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<strong>📚 On My Desk</strong>
+<h4>📖 Currently Studying</h4>
 
-<ul>
-<li>HTML, CSS & JavaScript</li>
-<li>AutoCAD</li>
-<li>SolidWorks</li>
-</ul>
+<p>✦ HTML, CSS & JavaScript</p>
+<p>✦ Web development</p>
+
+<p>
+  <sub>Learning to bring ideas to life on the web.</sub>
+</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-<strong>🔭 Exploring</strong>
+<h4>⚙️ Engineering Desk</h4>
 
-<ul>
-<li>Engineering Design</li>
-<li>Simulation</li>
-<li>Godot</li>
-</ul>
+<p>✦ AutoCAD</p>
+<p>✦ SolidWorks</p>
+<p>✦ Engineering design & simulation</p>
+
+<p>
+  <sub>Turning concepts into designs and models.</sub>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+<h4>🎮 The Curiosity Corner</h4>
+
+<p>✦ Godot & game development</p>
+<p>✦ Interactive experiences</p>
+<p>✦ Exploring creative ways to build things</p>
+
+<p>
+  <sub>Because not every experiment needs to stay on paper.</sub>
+</p>
 
 </td>
 </tr>
@@ -331,51 +350,139 @@ and the fascinating world of motion.
 
 <br>
 
-<!-- GITHUB JOURNAL -->
-
-<h3>📖 My GitHub Journal</h3>
-
-<p>
-  <sub>A little record of the things I've been creating and discovering.</sub>
-</p>
-
 <div align="center">
 
-<!-- GITHUB STATISTICS WILL GO HERE -->
+<i>
+"Still learning, still experimenting,
+<br>
+still becoming."
+</i>
 
-<p><i>Every contribution is another little page in the journey.</i></p>
+<p>🌿 &nbsp; 🌼 &nbsp; 🌿</p>
 
 </div>
 
 <br>
 
-<!-- PHILOSOPHY -->
 
-<table width="100%">
-<tr>
-<td align="center">
+<!-- GITHUB JOURNAL -->
 
-<p>☕ &nbsp; <strong>A Thought to Leave You With</strong> &nbsp; ☕</p>
-
-<br>
+<h3>📖 Pages From My GitHub Journal</h3>
 
 <p>
-<i>
-"Learn something. Build something.
-<br>
-Make something that matters."
-</i>
+  <sub>A little record of what I've been creating, learning and exploring.</sub>
 </p>
 
 <br>
 
-<sub>And never lose the curiosity that started it all.</sub>
+<div align="center">
 
-</td>
-</tr>
-</table>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=keerthananilkumar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=d6a77a&icon_color=8da68b&text_color=d8d2c8"
+  height="165"
+  alt="GitHub statistics">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthananilkumar&layout=compact&hide_border=true&bg_color=0d1117&title_color=d6a77a&text_color=d8d2c8"
+  height="165"
+  alt="Most used languages">
+
+<br><br>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=keerthananilkumar&bg_color=0d1117&color=d6a77a&line=8da68b&point=d6a77a&area=true&hide_border=true"
+  width="100%"
+  alt="GitHub contribution activity graph">
 
 <br>
+
+<p>
+  <i>Every little commit is another page in the story. 🌿</i>
+</p>
+
+</div>
+
+<br>
+
+
+<!-- GITHUB STATISTICS -->
+
+<h3>📊 Numbers From My Little Workshop</h3>
+
+<p>
+  <sub>A few numbers telling the story of my journey so far.</sub>
+</p>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://github-stats-extended.vercel.app/api?username=keerthananilkumar&show_icons=true&hide_border=true&bg_color=2B211B&title_color=D9B38C&text_color=E8DCCB&icon_color=9EAF87&ring_color=B88962"
+  height="180"
+  alt="GitHub statistics">
+
+<br><br>
+
+<img
+  src="https://streak-stats.demolab.com?user=keerthananilkumar&theme=gruvbox&hide_border=true&background=2B211B&ring=B88962&fire=D9A066&currStreakLabel=D9B38C&sideLabels=D9B38C&currStreakNum=E8DCCB&sideNums=E8DCCB&dates=AA9B88"
+  width="100%"
+  alt="GitHub contribution streak">
+
+<br><br>
+
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=keerthananilkumar&layout=compact&hide_border=true&bg_color=2B211B&title_color=D9B38C&text_color=E8DCCB"
+  height="165"
+  alt="Most used programming languages">
+
+</div>
+
+<br>
+
+<p align="center">
+  <i>Small commits, big dreams, and a little progress every day. 🤎</i>
+</p>
+
+<br>
+
+<!-- PHILOSOPHY -->
+
+<div align="center">
+
+<h3>☕ A Little Philosophy</h3>
+
+<br>
+
+<i>
+"I believe every great invention begins with a little curiosity,
+a messy notebook, and the courage to ask
+<span>what if?</span>"
+</i>
+
+<br><br>
+
+<p>
+I'm here to understand how things work, imagine how they could be better,
+and turn little ideas into things that actually exist.
+</p>
+
+<p>
+Somewhere between machines, code, creativity, and endless curiosity,
+I'm building my own little corner of the world.
+</p>
+
+<br>
+
+<b>Still learning. Still building. Still dreaming. 🌱</b>
+
+<br><br>
+
+<sub>Made with curiosity, a little chaos, and lots of coffee. 🤎</sub>
+
+</div>
+
+<!-- END PHILOSOPHY -->
 
 <!-- FOOTER -->
 
