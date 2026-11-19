@@ -79,7 +79,7 @@ to build something extraordinary."</i>
 
 <!-- YOUR CHARACTER ILLUSTRATION GOES HERE -->
 
-<img src="./little-inventor.jpg"
+<img src="./Fantasy Castle Nature Background"
      width="220"
      alt="A little wandering inventor">
 
