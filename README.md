@@ -6,12 +6,9 @@
 
 <div align="center">
 
-
-<div align="center">
-
 <img src="./workshop-banner.gif"
      width="100%"
-     alt="Welcome to Keerthana's Little Workshop">
+     alt="Keerthana's Little Workshop">
 
 </div>
 
