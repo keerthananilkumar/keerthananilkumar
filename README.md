@@ -6,7 +6,9 @@
 
 <div align="center">
 
-<!-- MAIN BANNER IMAGE GOES HERE -->
+<p align="center">
+  <img src="./workshop-banner.jpg" width="100%" alt="Keerthana's Little Workshop">
+</p>
 
 <h1>Welcome to My Little Workshop 🍂</h1>
 
