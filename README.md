@@ -50,11 +50,9 @@ there's always something new to build.
 </p>
 
 
-<!-- THE LITTLE INVENTOR SECTION -->
-
-<table>
+<table width="100%">
 <tr>
-<td width="60%" valign="middle">
+<td width="55%" valign="middle">
 
 <h3>🌿 Somewhere Between Dreams & Machines</h3>
 
@@ -83,19 +81,18 @@ to build something extraordinary."
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="45%" align="center" valign="middle">
 
 <img src="./little-inventor.jpg"
-     width="300"
+     width="100%"
      alt="A little wandering inventor">
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-﹏﹏﹏ ✦ A LITTLE IMAGINATION GOES A LONG WAY ✦ ﹏﹏﹏
-</p>
+
+
 
 <!-- INTERESTS -->
 
