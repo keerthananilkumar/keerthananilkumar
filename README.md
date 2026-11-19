@@ -48,7 +48,7 @@
 
 <table>
 <tr>
-<td width="65%" valign="middle">
+<td width="60%" valign="middle">
 
 <h3>🌿 Somewhere Between Dreams & Machines</h3>
 
