@@ -75,13 +75,14 @@ to build something extraordinary."</i>
 
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
 <!-- YOUR CHARACTER ILLUSTRATION GOES HERE -->
 
 <img src="./Fantasy Castle Nature Background.jpg"
-     width="220"
-     alt="A little wandering inventor">
+     width="300"
+     height="250"
+     alt="Fantasy Castle Nature Background">
 
 </td>
 </tr>
