@@ -1,59 +1,128 @@
-# Hey, I'm Keerthana! 👋
 
-### Mechanical Engineering Student | Developer | Curious Builder
+<!-- =====================================
+     KEERTHANA'S LITTLE WORKSHOP
+     A COZY ENGINEERING JOURNAL
+===================================== -->
 
-I love exploring the intersection of engineering, technology, creativity and design.
+<div align="center">
 
-I'm interested in building things that make complex ideas easier to understand, explore and experience.
+<!-- MAIN BANNER IMAGE GOES HERE -->
+
+<h1>Welcome to My Little Workshop 🍂</h1>
+
+<p>
+  <i>Mechanical Engineer · Developer · Curious Creator</i>
+</p>
+
+<p>
+  Building things, breaking things,
+  and learning how the world works.
+</p>
+
+</div>
 
 ---
 
-### 🛠️ Interests & Technologies
+<!-- ABOUT ME -->
+
+<h2>🍁 A Little About Me</h2>
+
+<p>
+  Hey! I'm Keerthana, a Mechanical Engineering
+  student with a curiosity for technology,
+  design and creativity.
+</p>
+
+<p>
+  I love exploring the intersection of
+  engineering, programming and imagination.
+  From mechanical systems to digital worlds,
+  there's always something new to build.
+</p>
+
+---
+
+<!-- INTERESTS -->
+
+<h2>⚙️ Things I Love Exploring</h2>
 
 - Mechanical Engineering
-- Web Development
-- CAD & 3D Modelling
+- Robotics and Automation
+- CAD and 3D Modelling
 - Engineering Simulations
+- Web Development
 - Game Development
-- Robotics & Automation
 
 ---
 
-### 🌱 Currently Learning
+<!-- TOOLBOX -->
 
-- HTML, CSS & JavaScript
-- Godot
-- AutoCAD & SolidWorks
+<h2>🧰 My Little Toolbox</h2>
+
+<!-- TECHNOLOGY ICONS WILL GO HERE -->
+
+---
+
+<!-- PROJECTS -->
+
+<h2>🏡 Things I've Been Building</h2>
+
+<!-- PROJECT IMAGE 1 GOES HERE -->
+
+**KINETRA — Engineering in Motion**
+
+An interactive engineering playground.
+
+<!-- PROJECT IMAGE 2 GOES HERE -->
+
+**ELEMENTA — Explore the Elements**
+
+An educational periodic table experience.
+
+<!-- PROJECT IMAGE 3 GOES HERE -->
+
+**GEARBOUND — Mechanical Intelligence**
+
+A mechanical creature with interactive eyes and animated gears.
+
+---
+
+<!-- CURRENTLY LEARNING -->
+
+<h2>🌱 Currently Learning</h2>
+
+- HTML, CSS and JavaScript
+- AutoCAD and SolidWorks
 - Engineering Design and Simulation
+- Godot
 
 ---
 
-### 📌 My Philosophy
+<!-- GITHUB STATISTICS -->
 
-> Learn something. Build something. Break something. Understand it. Build it better.
----
----
+<h2>📖 My GitHub Journal</h2>
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keerthananilkumar&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keerthananilkumar&layout=compact&theme=tokyonight&hide_border=true)
-## 🐍 My Contribution Graph
-
-![Contribution Snake](https://raw.githubusercontent.com/keerthananilkumar/keerthananilkumar/output/github-contribution-grid-snake.svg)
+<!-- GITHUB STATISTICS WILL GO HERE -->
 
 ---
 
-### 📫 Connect With Me
+<!-- PHILOSOPHY -->
 
-- GitHub: [@keerthananilkumar](https://github.com/keerthananilkumar)
+<h2>☕ A Thought to Leave You With</h2>
 
----
+<div align="center">
 
-*Always curious. Always building.* 🖤
----
+<i>
+"Learn something. Build something.
+Make something that matters."
+</i>
 
-## 👀 Profile Visitors
+</div>
 
-![Visitors](https://komarev.com/ghpvc/?username=keerthananilkumar&color=orange&style=for-the-badge)
+<!-- FOOTER IMAGE GOES HERE -->
+
+<div align="center">
+
+<p>Thanks for visiting my little corner of the internet. 🤎</p>
+
+</div>
