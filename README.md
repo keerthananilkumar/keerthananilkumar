@@ -166,104 +166,57 @@ to build something extraordinary."
 
 <br>
 
+
 <!-- TOOLBOX -->
 
-<h3>🧰 My Little Toolbox</h3>
+<h3>🧰 The Tools on My Workbench</h3>
 
 <p>
-  <sub>A few tools I'm learning to turn ideas into something real.</sub>
+  <sub>Every little creation begins with the right tools.</sub>
 </p>
 
-<div align="center">
+<br>
 
-<p>
-  <strong>DESIGN & ENGINEERING</strong>
+<p align="center">
+  <strong>✦ ENGINEERING & DESIGN ✦</strong>
 </p>
 
-<p>
-  AutoCAD &nbsp; ✦ &nbsp; SolidWorks
+<p align="center">
+  <img src="https://img.shields.io/badge/AutoCAD-E85D5D?style=for-the-badge&logo=autodesk&logoColor=white">
+  &nbsp;
+  <img src="https://img.shields.io/badge/SolidWorks-C75B39?style=for-the-badge&logo=dassaultsystemes&logoColor=white">
 </p>
 
-<p>
-  <strong>DEVELOPMENT</strong>
+<br>
+
+<p align="center">
+  <strong>✦ WEB & DEVELOPMENT ✦</strong>
 </p>
 
-<p>
-  HTML &nbsp; ✦ &nbsp; CSS &nbsp; ✦ &nbsp; JavaScript
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github&theme=light">
 </p>
 
-<p>
-  <strong>CREATIVE EXPERIMENTS</strong>
+<br>
+
+<p align="center">
+  <strong>✦ CREATIVE EXPERIMENTS ✦</strong>
 </p>
 
-<p>
-  Godot &nbsp; ✦ &nbsp; Engineering Simulations
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=godot&theme=light">
 </p>
 
-</div>
+<br>
+
+<p align="center">
+  <sub>Collected, explored and slowly mastered — one tool at a time. 🌱</sub>
+</p>
 
 <br>
 
 <!-- PROJECTS -->
 
-<h3>🏡 Things I've Been Building</h3>
-
-<p>
-  <sub>Little ideas that have found their way out of my notebook.</sub>
-</p>
-
-<table width="100%">
-<tr>
-<td width="100%">
-
-<h4>⚙️ KINETRA</h4>
-
-<p><i>Engineering in Motion</i></p>
-
-<p>
-An interactive engineering playground exploring
-mechanical systems, simulations and motion.
-</p>
-
-<p align="right"><sub>01 / ENGINEERING</sub></p>
-
-</td>
-</tr>
-<tr>
-<td>
-
-<h4>🧪 ELEMENTA</h4>
-
-<p><i>Explore the Elements</i></p>
-
-<p>
-An educational periodic table experience
-designed to make exploring chemistry engaging.
-</p>
-
-<p align="right"><sub>02 / EDUCATION</sub></p>
-
-</td>
-</tr>
-<tr>
-<td>
-
-<h4>⚙️ GEARBOUND</h4>
-
-<p><i>Mechanical Intelligence</i></p>
-
-<p>
-A mechanical creature concept with interactive
-eyes and animated gears.
-</p>
-
-<p align="right"><sub>03 / CREATIVE EXPERIMENT</sub></p>
-
-</td>
-</tr>
-</table>
-
-<br>
 
 <!-- LEARNING -->
 
