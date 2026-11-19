@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="./workshop-banner.gif"
+<img src="./workshop-banner.gif.gif"
      width="100%"
      alt="Keerthana's Little Workshop">
 
