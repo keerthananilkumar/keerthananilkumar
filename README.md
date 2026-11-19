@@ -444,21 +444,6 @@ and the fascinating world of motion.
 
 <br><br>
 
-<img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=keerthananilkumar&layout=compact&hide_border=true&bg_color=2B211B&title_color=D9B38C&text_color=E8DCCB"
-  height="165"
-  alt="Most used programming languages">
-
-</div>
-
-<br>
-
-<p align="center">
-  <i>Small commits, big dreams, and a little progress every day. 🤎</i>
-</p>
-
-<br>
-
 <!-- PHILOSOPHY -->
 
 <div align="center">
