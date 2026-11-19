@@ -230,7 +230,11 @@ to build something extraordinary."
 <tr>
 <td width="100%" align="center">
 
-<img src="./elementa-preview.png" width="100%" alt="ELEMENTA website preview">
+
+<img src="./Elementa_%20The%20Holographic%20Periodic%20Table.png"
+     width="100%"
+     alt="ELEMENTA — The Holographic Periodic Table">
+
 
 <h3>🌿 ELEMENTA</h3>
 
@@ -288,7 +292,6 @@ and the fascinating world of motion.
 
 <!-- CURRENTLY LEARNING -->
 
-<!-- CURRENTLY LEARNING -->
 
 
 <!-- LEARNING -->
