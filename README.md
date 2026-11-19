@@ -12,47 +12,41 @@
 
 <h1>Welcome to My Little Workshop 🍂</h1>
 
-<p>
-  <i>Mechanical Engineer · Developer · Curious Creator</i>
-</p>
+<p><i>Mechanical Engineer · Developer · Curious Creator</i></p>
 
 <p>
-  Building things, breaking things,
-  and learning how the world works.
+Building things, breaking things,
+and learning how the world works.
 </p>
+
+<p>﹏﹏﹏ ✦ ﹏﹏﹏</p>
 
 </div>
 
-<p align="center">
-  <sub>﹏﹏﹏ ✦ ﹏﹏﹏</sub>
-</p>
-
 <!-- ABOUT ME -->
 
-<h2>🍁 A Little About Me</h2>
+<h3 align="left">🍁 A Little About Me</h3>
 
 <p>
-  Hey! I'm Keerthana, a Mechanical Engineering
-  student with a curiosity for technology,
-  design and creativity.
+Hey! I'm Keerthana, a Mechanical Engineering
+student with a curiosity for technology,
+design and creativity.
 </p>
 
 <p>
-  I love exploring the intersection of
-  engineering, programming and imagination.
-  From mechanical systems to digital worlds,
-  there's always something new to build.
+I love exploring the intersection of
+engineering, programming and imagination.
+From mechanical systems to digital worlds,
+there's always something new to build.
 </p>
 
-<p align="center">
-  <sub>﹏﹏﹏ ✦ ﹏﹏﹏</sub>
-</p>
+<p align="center">﹏﹏﹏ ✦ ﹏﹏﹏</p>
 
 <!-- THE LITTLE INVENTOR SECTION -->
 
 <table>
 <tr>
-<td width="60%" valign="middle" style="border: none;">
+<td width="60%" valign="middle">
 
 <h3>🌿 Somewhere Between Dreams & Machines</h3>
 
@@ -73,105 +67,99 @@ at a time. And honestly, that's the fun part.
 </p>
 
 <blockquote>
-<i>"A curious mind will always find a way
-to build something extraordinary."</i>
+<i>
+"A curious mind will always find a way
+to build something extraordinary."
+</i>
 </blockquote>
 
 </td>
 
-<td width="40%" align="center" valign="middle" style="border: none;">
+<td width="40%" align="center" valign="middle">
 
 <img src="./little-inventor.jpg"
      width="300"
-     alt="A little wandering inventor"
-     style="width:100%; max-width:300px; height:auto; display:block;">
+     alt="A little wandering inventor">
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <sub>﹏﹏﹏ ✦ A LITTLE IMAGINATION GOES A LONG WAY ✦ ﹏﹏﹏</sub>
+﹏﹏﹏ ✦ A LITTLE IMAGINATION GOES A LONG WAY ✦ ﹏﹏﹏
 </p>
-
 
 <!-- INTERESTS -->
 
-<h2>⚙️ Things I Love Exploring</h2>
+<h3>⚙️ Things I Love Exploring</h3>
 
-- Mechanical Engineering
-- Robotics and Automation
-- CAD and 3D Modelling
-- Engineering Simulations
-- Web Development
-- Game Development
+<ul>
+<li>Mechanical Engineering</li>
+<li>Robotics and Automation</li>
+<li>CAD and 3D Modelling</li>
+<li>Engineering Simulations</li>
+<li>Web Development</li>
+<li>Game Development</li>
+</ul>
 
-<p align="center">
-  <sub>﹏﹏﹏ ✦ ﹏﹏﹏</sub>
-</p>
+<p align="center">﹏﹏﹏ ✦ ﹏﹏﹏</p>
 
 <!-- TOOLBOX -->
 
-<h2>🧰 My Little Toolbox</h2>
+<h3>🧰 My Little Toolbox</h3>
 
 <!-- TECHNOLOGY ICONS WILL GO HERE -->
 
-<p align="center">
-  <sub>﹏﹏﹏ ✦ ﹏﹏﹏</sub>
-</p>
+<p align="center">﹏﹏﹏ ✦ ﹏﹏﹏</p>
 
 <!-- PROJECTS -->
 
-<h2>🏡 Things I've Been Building</h2>
+<h3>🏡 Things I've Been Building</h3>
 
 <!-- PROJECT IMAGE 1 GOES HERE -->
 
-**KINETRA — Engineering in Motion**
+<p><strong>KINETRA — Engineering in Motion</strong></p>
 
-An interactive engineering playground.
+<p>An interactive engineering playground.</p>
 
 <!-- PROJECT IMAGE 2 GOES HERE -->
 
-**ELEMENTA — Explore the Elements**
+<p><strong>ELEMENTA — Explore the Elements</strong></p>
 
-An educational periodic table experience.
+<p>An educational periodic table experience.</p>
 
 <!-- PROJECT IMAGE 3 GOES HERE -->
 
-**GEARBOUND — Mechanical Intelligence**
+<p><strong>GEARBOUND — Mechanical Intelligence</strong></p>
 
-A mechanical creature with interactive eyes and animated gears.
+<p>A mechanical creature with interactive eyes and animated gears.</p>
 
-<p align="center">
-  <sub>﹏﹏﹏ ✦ ﹏﹏﹏</sub>
-</p>
+<p align="center">﹏﹏﹏ ✦ ﹏﹏﹏</p>
 
 <!-- CURRENTLY LEARNING -->
 
-<h2>🌱 Currently Learning</h2>
+<h3>🌱 Currently Learning</h3>
 
-- HTML, CSS and JavaScript
-- AutoCAD and SolidWorks
-- Engineering Design and Simulation
-- Godot
+<ul>
+<li>HTML, CSS and JavaScript</li>
+<li>AutoCAD and SolidWorks</li>
+<li>Engineering Design and Simulation</li>
+<li>Godot</li>
+</ul>
 
-<p align="center">
-  <sub>﹏﹏﹏ ✦ ﹏﹏﹏</sub>
-</p>
+<p align="center">﹏﹏﹏ ✦ ﹏﹏﹏</p>
 
 <!-- GITHUB STATISTICS -->
 
-<h2>📖 My GitHub Journal</h2>
+<h3>📖 My GitHub Journal</h3>
 
 <!-- GITHUB STATISTICS WILL GO HERE -->
 
-<p align="center">
-  <sub>﹏﹏﹏ ✦ ﹏﹏﹏</sub>
-</p>
+<p align="center">﹏﹏﹏ ✦ ﹏﹏﹏</p>
 
 <!-- PHILOSOPHY -->
 
-<h2>☕ A Thought to Leave You With</h2>
+<h3>☕ A Thought to Leave You With</h3>
 
 <div align="center">
 
@@ -181,6 +169,8 @@ Make something that matters."
 </i>
 
 </div>
+
+<p align="center">﹏﹏﹏ ✦ ﹏﹏﹏</p>
 
 <!-- FOOTER IMAGE GOES HERE -->
 
