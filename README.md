@@ -181,7 +181,7 @@ to build something extraordinary."
 
 
 <p align="center">
-  <sub>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏ ✦ ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</sub>
+  <sub> ✦ </sub>
 </p>
 
 
