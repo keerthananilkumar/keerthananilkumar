@@ -23,7 +23,9 @@
 
 </div>
 
----
+<p align="center">
+  <sub>﹏﹏﹏ ✦ ﹏﹏﹏</sub>
+</p>
 
 <!-- ABOUT ME -->
 
@@ -42,13 +44,15 @@
   there's always something new to build.
 </p>
 
----
+<p align="center">
+  <sub>﹏﹏﹏ ✦ ﹏﹏﹏</sub>
+</p>
 
 <!-- THE LITTLE INVENTOR SECTION -->
 
 <table>
 <tr>
-<td width="60%" valign="middle">
+<td width="60%" valign="middle" style="border: none;">
 
 <h3>🌿 Somewhere Between Dreams & Machines</h3>
 
@@ -75,26 +79,20 @@ to build something extraordinary."</i>
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle" style="border: none;">
 
-<!-- YOUR CHARACTER ILLUSTRATION GOES HERE -->
-
-<img src="./Fantasy Castle Nature Background.jpg"
+<img src="./little-inventor.jpg"
      width="300"
-     height="250"
-     alt="Fantasy Castle Nature Background">
+     alt="A little wandering inventor"
+     style="width:100%; max-width:300px; height:auto; display:block;">
 
 </td>
 </tr>
 </table>
 
-<br>
-
-<div align="center">
-  <sub>✦ A LITTLE IMAGINATION GOES A LONG WAY ✦</sub>
-</div>
-
-<br>
+<p align="center">
+  <sub>﹏﹏﹏ ✦ A LITTLE IMAGINATION GOES A LONG WAY ✦ ﹏﹏﹏</sub>
+</p>
 
 
 <!-- INTERESTS -->
@@ -108,7 +106,9 @@ to build something extraordinary."</i>
 - Web Development
 - Game Development
 
----
+<p align="center">
+  <sub>﹏﹏﹏ ✦ ﹏﹏﹏</sub>
+</p>
 
 <!-- TOOLBOX -->
 
@@ -116,7 +116,9 @@ to build something extraordinary."</i>
 
 <!-- TECHNOLOGY ICONS WILL GO HERE -->
 
----
+<p align="center">
+  <sub>﹏﹏﹏ ✦ ﹏﹏﹏</sub>
+</p>
 
 <!-- PROJECTS -->
 
@@ -140,7 +142,9 @@ An educational periodic table experience.
 
 A mechanical creature with interactive eyes and animated gears.
 
----
+<p align="center">
+  <sub>﹏﹏﹏ ✦ ﹏﹏﹏</sub>
+</p>
 
 <!-- CURRENTLY LEARNING -->
 
@@ -151,7 +155,9 @@ A mechanical creature with interactive eyes and animated gears.
 - Engineering Design and Simulation
 - Godot
 
----
+<p align="center">
+  <sub>﹏﹏﹏ ✦ ﹏﹏﹏</sub>
+</p>
 
 <!-- GITHUB STATISTICS -->
 
@@ -159,7 +165,9 @@ A mechanical creature with interactive eyes and animated gears.
 
 <!-- GITHUB STATISTICS WILL GO HERE -->
 
----
+<p align="center">
+  <sub>﹏﹏﹏ ✦ ﹏﹏﹏</sub>
+</p>
 
 <!-- PHILOSOPHY -->
 
