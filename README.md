@@ -44,6 +44,58 @@
 
 ---
 
+<!-- THE LITTLE INVENTOR SECTION -->
+
+<table>
+<tr>
+<td width="65%" valign="middle">
+
+<h3>🌿 Somewhere Between Dreams & Machines</h3>
+
+<p>
+I believe every little idea has the potential
+to become something wonderful.
+</p>
+
+<p>
+You'll probably find me somewhere between
+a pile of engineering sketches, unfinished
+projects, books and a cup of coffee.
+</p>
+
+<p>
+I'm still figuring things out, one experiment
+at a time. And honestly, that's the fun part.
+</p>
+
+<blockquote>
+<i>"A curious mind will always find a way
+to build something extraordinary."</i>
+</blockquote>
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<!-- YOUR CHARACTER ILLUSTRATION GOES HERE -->
+
+<img src="./little-inventor.png"
+     width="220"
+     alt="A little wandering inventor">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+  <sub>✦ A LITTLE IMAGINATION GOES A LONG WAY ✦</sub>
+</div>
+
+<br>
+
+
 <!-- INTERESTS -->
 
 <h2>⚙️ Things I Love Exploring</h2>
