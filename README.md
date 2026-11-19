@@ -301,48 +301,64 @@ and the fascinating world of motion.
 
 <br>
 
+<table width="100%" border="0">
+<tr>
+<td width="58%" valign="top">
+
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 <h4>📖 Currently Studying</h4>
 
-<p>✦ HTML, CSS & JavaScript</p>
-<p>✦ Web development</p>
+✦ HTML, CSS & JavaScript
 
-<p>
-  <sub>Learning to bring ideas to life on the web.</sub>
-</p>
+✦ Web development
+
+<br>
+<sub>Learning to bring ideas to life on the web.</sub>
 
 </td>
-
-<td width="50%" valign="top">
+<td valign="top">
 
 <h4>⚙️ Engineering Desk</h4>
 
-<p>✦ AutoCAD</p>
-<p>✦ SolidWorks</p>
-<p>✦ Engineering design & simulation</p>
+✦ AutoCAD
 
-<p>
-  <sub>Turning concepts into designs and models.</sub>
-</p>
+✦ SolidWorks
+
+✦ Engineering design & simulation
+
+<br>
+<sub>Turning concepts into designs and models.</sub>
 
 </td>
 </tr>
-
 <tr>
 <td colspan="2" valign="top">
 
 <h4>🎮 The Curiosity Corner</h4>
 
-<p>✦ Godot & game development</p>
-<p>✦ Interactive experiences</p>
-<p>✦ Exploring creative ways to build things</p>
+✦ Godot & game development
 
-<p>
-  <sub>Because not every experiment needs to stay on paper.</sub>
-</p>
+✦ Interactive experiences
+
+✦ Exploring creative ways to build things
+
+<br>
+<sub>Because not every experiment needs to stay on paper.</sub>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="42%" valign="middle" align="center">
+
+<img src="./learning-garden.jpg"
+     width="100%"
+     alt="A little corner of my learning garden">
 
 </td>
 </tr>
@@ -350,19 +366,16 @@ and the fascinating world of motion.
 
 <br>
 
-<div align="center">
+<p align="center">
+  <i>Still learning, still experimenting,<br>
+  still becoming.</i>
+  <br>
+  🌿 🌸 🌿
+</p>
 
-<i>
-"Still learning, still experimenting,
-<br>
-still becoming."
-</i>
+<!-- END THE LEARNING GARDEN -->
 
-<p>🌿 &nbsp; 🌼 &nbsp; 🌿</p>
 
-</div>
-
-<br>
 
 
 <!-- GITHUB JOURNAL -->
