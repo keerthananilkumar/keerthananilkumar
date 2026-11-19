@@ -217,8 +217,6 @@ to build something extraordinary."
 
 <!-- PROJECTS -->
 
-<!-- PROJECTS -->
-
 <h3>🏡 Little Things I've Been Building</h3>
 
 <p>
@@ -246,7 +244,7 @@ more interactive and enjoyable.
 </p>
 
 <p>
-  <a href="https://github.com/keerthananilkumar/ELEMENTA">
+  <a href="https://keerthananilkumar.github.io/ELEMENTA/">
     <img src="https://img.shields.io/badge/EXPLORE_ELEMENTA-527A64?style=flat-square&logoColor=white">
   </a>
 </p>
