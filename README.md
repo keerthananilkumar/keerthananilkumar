@@ -19,7 +19,11 @@ Building things, breaking things,
 and learning how the world works.
 </p>
 
-<p>﹏﹏﹏ ✦ ﹏﹏﹏</p>
+
+<p align="center">
+  <sub>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏ ✦ ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</sub>
+</p>
+
 
 </div>
 
@@ -40,7 +44,11 @@ From mechanical systems to digital worlds,
 there's always something new to build.
 </p>
 
-<p align="center">﹏﹏﹏ ✦ ﹏﹏﹏</p>
+
+<p align="center">
+  <sub>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏ ✦ ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</sub>
+</p>
+
 
 <!-- THE LITTLE INVENTOR SECTION -->
 
@@ -102,7 +110,11 @@ to build something extraordinary."
 <li>Game Development</li>
 </ul>
 
-<p align="center">﹏﹏﹏ ✦ ﹏﹏﹏</p>
+
+<p align="center">
+  <sub>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏ ✦ ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</sub>
+</p>
+
 
 <!-- TOOLBOX -->
 
@@ -110,7 +122,11 @@ to build something extraordinary."
 
 <!-- TECHNOLOGY ICONS WILL GO HERE -->
 
-<p align="center">﹏﹏﹏ ✦ ﹏﹏﹏</p>
+
+<p align="center">
+  <sub>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏ ✦ ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</sub>
+</p>
+
 
 <!-- PROJECTS -->
 
@@ -134,7 +150,11 @@ to build something extraordinary."
 
 <p>A mechanical creature with interactive eyes and animated gears.</p>
 
-<p align="center">﹏﹏﹏ ✦ ﹏﹏﹏</p>
+
+<p align="center">
+  <sub>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏ ✦ ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</sub>
+</p>
+
 
 <!-- CURRENTLY LEARNING -->
 
@@ -147,7 +167,11 @@ to build something extraordinary."
 <li>Godot</li>
 </ul>
 
-<p align="center">﹏﹏﹏ ✦ ﹏﹏﹏</p>
+
+<p align="center">
+  <sub>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏ ✦ ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</sub>
+</p>
+
 
 <!-- GITHUB STATISTICS -->
 
@@ -155,7 +179,11 @@ to build something extraordinary."
 
 <!-- GITHUB STATISTICS WILL GO HERE -->
 
-<p align="center">﹏﹏﹏ ✦ ﹏﹏﹏</p>
+
+<p align="center">
+  <sub>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏ ✦ ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</sub>
+</p>
+
 
 <!-- PHILOSOPHY -->
 
