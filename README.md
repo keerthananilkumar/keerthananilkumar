@@ -6,9 +6,15 @@
 
 <div align="center">
 
-<p align="center">
-  <img src="./workshop-banner.jpg" width="100%" alt="Keerthana's Little Workshop">
-</p>
+
+<div align="center">
+
+<img src="./workshop-banner.gif"
+     width="100%"
+     alt="Welcome to Keerthana's Little Workshop">
+
+</div>
+
 
 <h1>Welcome to My Little Workshop 🍂</h1>
 
