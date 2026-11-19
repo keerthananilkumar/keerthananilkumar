@@ -373,51 +373,6 @@ and the fascinating world of motion.
   🌿 🌸 🌿
 </p>
 
-<!-- END THE LEARNING GARDEN -->
-
-
-
-
-<!-- GITHUB JOURNAL -->
-
-<h3>📖 Pages From My GitHub Journal</h3>
-
-<p>
-  <sub>A little record of what I've been creating, learning and exploring.</sub>
-</p>
-
-<br>
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=keerthananilkumar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=d6a77a&icon_color=8da68b&text_color=d8d2c8"
-  height="165"
-  alt="GitHub statistics">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthananilkumar&layout=compact&hide_border=true&bg_color=0d1117&title_color=d6a77a&text_color=d8d2c8"
-  height="165"
-  alt="Most used languages">
-
-<br><br>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=keerthananilkumar&bg_color=0d1117&color=d6a77a&line=8da68b&point=d6a77a&area=true&hide_border=true"
-  width="100%"
-  alt="GitHub contribution activity graph">
-
-<br>
-
-<p>
-  <i>Every little commit is another page in the story. 🌿</i>
-</p>
-
-</div>
-
-<br>
-
-
 <!-- GITHUB STATISTICS -->
 
 <h3>📊 Numbers From My Little Workshop</h3>
