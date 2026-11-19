@@ -215,64 +215,64 @@ to build something extraordinary."
 
 <br>
 
+
 <!-- PROJECTS -->
 
 <h3>🏡 Little Things I've Been Building</h3>
 
 <p>
-  <sub>Ideas slowly turning into something real.</sub>
+  <sub>Ideas from my notebook, slowly becoming reality.</sub>
 </p>
 
 <br>
 
 <table width="100%">
 <tr>
-<td width="100%" valign="top">
+<td width="100%" align="center">
+
+<img src="./elementa-preview.png" width="100%" alt="ELEMENTA website preview">
 
 <h3>🌿 ELEMENTA</h3>
 
-<p><i>Explore the Elements</i></p>
+<i>Explore the Elements</i>
 
 <p>
-An educational periodic table experience
-built to make learning about chemical elements
-more interactive and enjoyable.
+An interactive educational periodic table
+designed to make exploring chemical elements
+engaging and accessible.
 </p>
 
 <p>
-  <sub>✦ A completed creation</sub>
+  <sub>✦ COMPLETED PROJECT</sub>
 </p>
 
-<p>
-  <a href="https://keerthananilkumar.github.io/ELEMENTA/">
-    <img src="https://img.shields.io/badge/EXPLORE_ELEMENTA-527A64?style=flat-square&logoColor=white">
-  </a>
-</p>
+<a href="https://keerthananilkumar.github.io/ELEMENTA/#unlock-slider">VISIT ELEMENTA ↗</a>
 
 </td>
 </tr>
+
 <tr>
-<td width="100%" valign="top">
+<td align="center">
+
+<br>
+
+<img src="./kinetra-preview.png" width="100%" alt="KINETRA website preview">
 
 <h3>⚙️ KINETRA</h3>
 
-<p><i>Engineering in Motion</i></p>
+<i>Engineering in Motion</i>
 
 <p>
 A browser-based engineering playground
-focused on mechanical systems, interactive
-simulations and understanding motion.
+exploring mechanical systems, simulations
+and the fascinating world of motion.
 </p>
 
 <p>
-  <sub>✦ Currently being built, one mechanism at a time</sub>
+  <sub>✦ CURRENTLY IN DEVELOPMENT</sub>
 </p>
 
-<p>
-  <a href="https://keerthananilkumar.github.io/KINETRA/">
-    <img src="https://img.shields.io/badge/VISIT_KINETRA-C47743?style=flat-square&logoColor=white">
-  </a>
-</p>
+<a href="https://keerthananilkumar.github.io/KINETRA/">VISIT KINETRA ↗</a>
 
 </td>
 </tr>
@@ -281,10 +281,12 @@ simulations and understanding motion.
 <br>
 
 <p align="center">
-  <i>More little experiments are waiting in my notebook. 🍂</i>
+  <i>Every creation starts with a little curiosity. 🍂</i>
 </p>
 
 <br>
+
+<!-- CURRENTLY LEARNING -->
 
 <!-- CURRENTLY LEARNING -->
 
