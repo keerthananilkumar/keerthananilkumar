@@ -172,19 +172,19 @@ to build something extraordinary."
 <h3>🧰 The Tools on My Workbench</h3>
 
 <p>
-  <sub>Every little creation begins with the right tools.</sub>
+  <sub>Little tools helping me turn imagination into reality.</sub>
 </p>
 
 <br>
 
 <p align="center">
-  <strong>✦ ENGINEERING & DESIGN ✦</strong>
+  <strong>✦ ENGINEERING & 3D DESIGN ✦</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AutoCAD-E85D5D?style=for-the-badge&logo=autodesk&logoColor=white">
-  &nbsp;
-  <img src="https://img.shields.io/badge/SolidWorks-C75B39?style=for-the-badge&logo=dassaultsystemes&logoColor=white">
+  <img src="https://img.shields.io/badge/AutoCAD-C62828?style=for-the-badge&logo=autodesk&logoColor=white">
+  <img src="https://img.shields.io/badge/SolidWorks-E53935?style=for-the-badge&logo=dassaultsystemes&logoColor=white">
+  <img src="https://img.shields.io/badge/Blender-EA7600?style=for-the-badge&logo=blender&logoColor=white">
 </p>
 
 <br>
@@ -200,7 +200,7 @@ to build something extraordinary."
 <br>
 
 <p align="center">
-  <strong>✦ CREATIVE EXPERIMENTS ✦</strong>
+  <strong>✦ GAME & CREATIVE DEVELOPMENT ✦</strong>
 </p>
 
 <p align="center">
@@ -210,12 +210,85 @@ to build something extraordinary."
 <br>
 
 <p align="center">
-  <sub>Collected, explored and slowly mastered — one tool at a time. 🌱</sub>
+  <sub>From mechanical sketches to digital worlds — always something to create. 🌱</sub>
 </p>
 
 <br>
 
 <!-- PROJECTS -->
+
+<!-- PROJECTS -->
+
+<h3>🏡 Little Things I've Been Building</h3>
+
+<p>
+  <sub>Ideas slowly turning into something real.</sub>
+</p>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+<h3>🌿 ELEMENTA</h3>
+
+<p><i>Explore the Elements</i></p>
+
+<p>
+An educational periodic table experience
+built to make learning about chemical elements
+more interactive and enjoyable.
+</p>
+
+<p>
+  <sub>✦ A completed creation</sub>
+</p>
+
+<p>
+  <a href="https://github.com/keerthananilkumar/ELEMENTA">
+    <img src="https://img.shields.io/badge/EXPLORE_ELEMENTA-527A64?style=flat-square&logoColor=white">
+  </a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+<h3>⚙️ KINETRA</h3>
+
+<p><i>Engineering in Motion</i></p>
+
+<p>
+A browser-based engineering playground
+focused on mechanical systems, interactive
+simulations and understanding motion.
+</p>
+
+<p>
+  <sub>✦ Currently being built, one mechanism at a time</sub>
+</p>
+
+<p>
+  <a href="https://keerthananilkumar.github.io/KINETRA/">
+    <img src="https://img.shields.io/badge/VISIT_KINETRA-C47743?style=flat-square&logoColor=white">
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <i>More little experiments are waiting in my notebook. 🍂</i>
+</p>
+
+<br>
+
+<!-- CURRENTLY LEARNING -->
 
 
 <!-- LEARNING -->
