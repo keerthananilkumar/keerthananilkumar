@@ -37,6 +37,7 @@ Somewhere between engineering, code, books, music and a thousand unfinished idea
 ## things I've been building
 
 ### ELEMENTA
+
 An interactive periodic table designed to make chemistry a little more fascinating.
 
 [ explore ELEMENTA →](https://keerthananilkumar.github.io/ELEMENTA/#unlock-slider)
@@ -44,6 +45,7 @@ An interactive periodic table designed to make chemistry a little more fascinati
 <img src="./Elementa_%20The%20Holographic%20Periodic%20Table.png" width="100%" />
 
 ### KINETRA
+
 An engineering playground exploring mechanics, motion and interactive simulations.
 
 [ explore KINETRA →](https://keerthananilkumar.github.io/KINETRA/)
@@ -65,14 +67,17 @@ An engineering playground exploring mechanics, motion and interactive simulation
 
 A little fond of fictional worlds, complicated minds and stories that stay long after the last page.
 
-**Authors I gravitate towards:**
+**the authors & their worlds**
 
-- Franz Kafka
-- Fyodor Dostoevsky
-- Albert Camus
-- George Orwell
+| author | a few favourites |
+|:--|:--|
+| Franz Kafka | The Metamorphosis · The Trial |
+| Fyodor Dostoevsky | Crime and Punishment · Notes from Underground · The Brothers Karamazov |
+| Albert Camus | The Stranger · The Plague |
+| George Orwell | 1984 · Animal Farm |
+| Hermann Hesse | Siddhartha · Steppenwolf |
 
-*Somewhere between fiction and existential crises.*
+*somewhere between fiction and existential crises.*
 
 ---
 
@@ -80,9 +85,13 @@ A little fond of fictional worlds, complicated minds and stories that stay long 
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=keerthananilkumar&show_icons=true&theme=transparent&title_color=9B7653&icon_color=9B7653&text_color=9B7653&border_color=C8B69E" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=keerthananilkumar&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=9B7653&icon_color=9B7653&text_color=9B7653&rank_icon=github&border_radius=12" width="49%" />
 
-<img src="https://streak-stats.demolab.com?user=keerthananilkumar&theme=transparent&ring=9B7653&fire=9B7653&currStreakLabel=9B7653&sideLabels=9B7653&sideNums=9B7653&dates=9B7653&border=C8B69E" width="48%" />
+<img src="https://streak-stats.demolab.com?user=keerthananilkumar&hide_border=true&background=00000000&ring=9B7653&fire=B87952&currStreakLabel=9B7653&sideLabels=9B7653&sideNums=9B7653&dates=B09A83&border_radius=12" width="49%" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthananilkumar&layout=compact&hide_border=true&bg_color=00000000&title_color=9B7653&text_color=9B7653&langs_count=6&border_radius=12" width="42%" />
 
 </div>
 
