@@ -1,8 +1,8 @@
 
-<!-- =====================================
+<!-- =====================================================
      KEERTHANA'S LITTLE WORKSHOP
-     A COZY ENGINEERING JOURNAL
-===================================== -->
+     EDITION 2.0 — A COZY ENGINEERING JOURNAL
+===================================================== -->
 
 <div align="center">
 
@@ -10,81 +10,80 @@
      width="100%"
      alt="Keerthana's Little Workshop">
 
-</div>
+<br>
 
+<p>
+  <sub>✿ &nbsp; THE WORKSHOP JOURNAL &nbsp; ✿</sub>
+</p>
 
 <h1>Welcome to My Little Workshop 🍂</h1>
 
 <p><i>Mechanical Engineer · Developer · Curious Creator</i></p>
 
 <p>
-Building things, breaking things,
+Building things, breaking things,<br>
 and learning how the world works.
 </p>
 
-
-<p align="center">
-  <sub>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏ ✦ ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</sub>
-</p>
-
-
-</div>
-
-
-<!-- =====================================
-     THE LITTLE WORKSHOP — JOURNAL BEGINS
-===================================== -->
-
-<div align="center">
-
 <p>
-  <sub>✿ &nbsp; A SMALL CORNER OF CURIOSITY &nbsp; ✿</sub>
-</p>
-
-<p>
-  <strong><font size="6">Welcome to My Little Workshop 🍂</font></strong>
-</p>
-
-<p><i>Mechanical Engineer · Developer · Curious Creator</i></p>
-
-<p>
-  A place for little ideas, ambitious experiments,
-  mechanical wonders and everything in between.
-</p>
-
-<p>
-  <sub>Currently making things, learning things, and occasionally making a mess.</sub>
+  <sub>﹏﹏﹏﹏﹏﹏﹏﹏﹏ ✦ ﹏﹏﹏﹏﹏﹏﹏﹏﹏</sub>
 </p>
 
 </div>
 
 <br>
 
-<!-- ABOUT ME -->
+<!-- =====================================================
+     TABLE OF CONTENTS
+===================================================== -->
+
+<div align="center">
+
+<p>
+  <sub>✿ &nbsp; TAKE A LITTLE LOOK AROUND &nbsp; ✿</sub>
+</p>
+
+<a href="#about">ABOUT</a>
+&nbsp; ✦ &nbsp;
+<a href="#dreams">DREAMS & MACHINES</a>
+&nbsp; ✦ &nbsp;
+<a href="#projects">PROJECTS</a>
+&nbsp; ✦ &nbsp;
+<a href="#toolbox">TOOLBOX</a>
+&nbsp; ✦ &nbsp;
+<a href="#bookshelf">BOOKSHELF</a>
+&nbsp; ✦ &nbsp;
+<a href="#journal">JOURNAL</a>
+&nbsp; ✦ &nbsp;
+<a href="#faq">FAQ</a>
+
+</div>
+
+<br>
+
+<!-- =====================================================
+     ABOUT ME
+===================================================== -->
+
+<a id="about"></a>
+
+<div align="center">
+
+<p><sub>✿ &nbsp; A SMALL CORNER OF CURIOSITY &nbsp; ✿</sub></p>
+
+<h2>🍁 A Little About Me</h2>
+
+</div>
 
 <table width="100%">
 <tr>
 <td>
 
-<h3>🍁 A Little About Me</h3>
+Hello there! I'm **Keerthana**, a Mechanical Engineering student with a curious mind and a soft spot for technology, design and creativity.
 
-<p>
-Hello there! I'm Keerthana, a Mechanical Engineering
-student with a curious mind and a soft spot for
-technology, design and creativity.
-</p>
+I love exploring the space where engineering meets imagination. One day it might be a mechanical system, the next a little website or an entirely new idea.
 
-<p>
-I love exploring the space where engineering meets
-imagination. One day it might be a mechanical system,
-the next a little website or an entirely new idea.
-</p>
-
-<p>
-I believe learning should feel like an adventure,
-and every unfinished project is simply another
-story waiting to happen.
-</p>
+I believe learning should feel like an adventure, and every unfinished project is simply another story waiting to happen.
 
 <p align="right">
   <sub>— A note from the maker ✍️</sub>
@@ -96,36 +95,27 @@ story waiting to happen.
 
 <br>
 
-<!-- DREAMS AND MACHINES -->
+<!-- =====================================================
+     DREAMS AND MACHINES
+===================================================== -->
 
-<h3>🌿 Somewhere Between Dreams & Machines</h3>
+<a id="dreams"></a>
+
+<h2>🌿 Somewhere Between Dreams & Machines</h2>
 
 <table width="100%">
 <tr>
 <td width="55%" valign="middle">
 
-<p>
-I believe every little idea has the potential
-to become something wonderful.
-</p>
+I believe every little idea has the potential to become something wonderful.
 
-<p>
-You'll probably find me somewhere between
-a pile of engineering sketches, unfinished
-projects, books and a cup of coffee.
-</p>
+You'll probably find me somewhere between a pile of engineering sketches, unfinished projects, books and a cup of coffee.
 
-<p>
-I'm still figuring things out, one experiment
-at a time. And honestly, that's the fun part.
-</p>
+I'm still figuring things out, one experiment at a time. And honestly, that's the fun part.
 
-<p>
-<i>
-"A curious mind will always find a way
-to build something extraordinary."
-</i>
-</p>
+<br>
+
+*“A curious mind will always find a way to build something extraordinary.”*
 
 </td>
 
@@ -141,24 +131,30 @@ to build something extraordinary."
 
 <br>
 
-<!-- INTERESTS -->
+<!-- =====================================================
+     INTERESTS
+===================================================== -->
 
-<h3>🌼 Things That Catch My Curiosity</h3>
+<h2>🌼 Things That Catch My Curiosity</h2>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<p>⚙️ <strong>Mechanical Engineering</strong></p>
-<p>🤖 <strong>Robotics & Automation</strong></p>
-<p>📐 <strong>CAD & 3D Modelling</strong></p>
+⚙️ **Mechanical Engineering**
+
+🤖 **Robotics & Automation**
+
+📐 **CAD & 3D Modelling**
 
 </td>
 <td width="50%" valign="top">
 
-<p>🧪 <strong>Engineering Simulations</strong></p>
-<p>💻 <strong>Web Development</strong></p>
-<p>🎮 <strong>Game Development</strong></p>
+🧪 **Engineering Simulations**
+
+💻 **Web Development**
+
+🎮 **Game Development**
 
 </td>
 </tr>
@@ -166,89 +162,43 @@ to build something extraordinary."
 
 <br>
 
+<!-- =====================================================
+     PROJECTS
+===================================================== -->
 
-<!-- TOOLBOX -->
+<a id="projects"></a>
 
-<h3>🧰 The Tools on My Workbench</h3>
+<div align="center">
 
-<p>
-  <sub>Little tools helping me turn imagination into reality.</sub>
-</p>
-
-<br>
-
-<p align="center">
-  <strong>✦ ENGINEERING & 3D DESIGN ✦</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AutoCAD-C62828?style=for-the-badge&logo=autodesk&logoColor=white">
-  <img src="https://img.shields.io/badge/SolidWorks-E53935?style=for-the-badge&logo=dassaultsystemes&logoColor=white">
-  <img src="https://img.shields.io/badge/Blender-EA7600?style=for-the-badge&logo=blender&logoColor=white">
-</p>
-
-<br>
-
-<p align="center">
-  <strong>✦ WEB & DEVELOPMENT ✦</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github&theme=light">
-</p>
-
-<br>
-
-<p align="center">
-  <strong>✦ GAME & CREATIVE DEVELOPMENT ✦</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=godot&theme=light">
-</p>
-
-<br>
-
-<p align="center">
-  <sub>From mechanical sketches to digital worlds — always something to create. 🌱</sub>
-</p>
-
-<br>
-
-
-<!-- PROJECTS -->
-
-<h3>🏡 Little Things I've Been Building</h3>
+<h2>🏡 Little Things I've Been Building</h2>
 
 <p>
   <sub>Ideas from my notebook, slowly becoming reality.</sub>
 </p>
 
-<br>
+<p>
+  <sub>✦ THE PROJECT SHELF ✦</sub>
+</p>
+
+</div>
 
 <table width="100%">
 <tr>
 <td width="100%" align="center">
 
-
 <img src="./Elementa_%20The%20Holographic%20Periodic%20Table.png"
      width="100%"
      alt="ELEMENTA — The Holographic Periodic Table">
-
 
 <h3>🌿 ELEMENTA</h3>
 
 <i>Explore the Elements</i>
 
 <p>
-An interactive educational periodic table
-designed to make exploring chemical elements
-engaging and accessible.
+An interactive educational periodic table designed to make exploring chemical elements engaging and accessible.
 </p>
 
-<p>
-  <sub>✦ COMPLETED PROJECT</sub>
-</p>
+<p><sub>✦ COMPLETED PROJECT</sub></p>
 
 <a href="https://keerthananilkumar.github.io/ELEMENTA/#unlock-slider">VISIT ELEMENTA ↗</a>
 
@@ -260,21 +210,19 @@ engaging and accessible.
 
 <br>
 
-<img src="./kinetra-preview.png" width="100%" alt="KINETRA website preview">
+<img src="./kinetra-preview.png"
+     width="100%"
+     alt="KINETRA website preview">
 
 <h3>⚙️ KINETRA</h3>
 
 <i>Engineering in Motion</i>
 
 <p>
-A browser-based engineering playground
-exploring mechanical systems, simulations
-and the fascinating world of motion.
+A browser-based engineering playground exploring mechanical systems, simulations and the fascinating world of motion.
 </p>
 
-<p>
-  <sub>✦ CURRENTLY IN DEVELOPMENT</sub>
-</p>
+<p><sub>✦ CURRENTLY IN DEVELOPMENT</sub></p>
 
 <a href="https://keerthananilkumar.github.io/KINETRA/">VISIT KINETRA ↗</a>
 
@@ -282,24 +230,221 @@ and the fascinating world of motion.
 </tr>
 </table>
 
+<div align="center">
+
+<i>Every creation starts with a little curiosity. 🍂</i>
+
+</div>
+
 <br>
 
-<p align="center">
-  <i>Every creation starts with a little curiosity. 🍂</i>
+<!-- =====================================================
+     TOOLBOX AND SKILLS
+===================================================== -->
+
+<a id="toolbox"></a>
+
+<div align="center">
+
+<h2>🧰 The Tools on My Workbench</h2>
+
+<p>
+  <sub>Little tools helping me turn imagination into reality.</sub>
 </p>
 
+</div>
+
 <br>
 
+### ⚙️ Engineering & 3D Design
 
-<!-- THE LEARNING GARDEN -->
+<div align="center">
 
-<h3>🌱 The Learning Garden</h3>
+<img src="https://img.shields.io/badge/AutoCAD-C62828?style=for-the-badge&logo=autodesk&logoColor=white">
+<img src="https://img.shields.io/badge/SolidWorks-E53935?style=for-the-badge&logo=dassaultsystemes&logoColor=white">
+<img src="https://img.shields.io/badge/Blender-EA7600?style=for-the-badge&logo=blender&logoColor=white">
+
+</div>
+
+### 💻 Web & Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,vscode,github&theme=light">
+
+</div>
+
+### 🎮 Game & Creative Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=godot&theme=light">
+
+</div>
+
+<br>
+
+### 🌱 Skills in Progress
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**01 / DESIGN**
+
+- Mechanical CAD
+- 3D Modelling
+- Engineering Drawing
+- Mechanical Systems
+
+</td>
+<td width="50%" valign="top">
+
+**02 / DEVELOPMENT**
+
+- HTML & CSS
+- JavaScript
+- Git & GitHub
+- Interactive Web Design
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 / EXPLORATION**
+
+- Robotics
+- Engineering Simulation
+- Game Development
+- Machine Design
+
+</td>
+<td width="50%" valign="top">
+
+**04 / CREATIVE THINKING**
+
+- UI Design
+- Problem Solving
+- Technical Research
+- Experimentation
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub>From mechanical sketches to digital worlds — always something to create. 🌱</sub>
+
+</div>
+
+<br>
+
+<!-- =====================================================
+     THE BOOKSHELF
+===================================================== -->
+
+<a id="bookshelf"></a>
+
+<div align="center">
+
+<h2>📚 The Little Bookshelf</h2>
+
+<p>
+  <sub>A quiet corner for stories, ideas and curious minds.</sub>
+</p>
+
+<i>
+Somewhere between engineering equations and unfinished projects,<br>
+there is always room for another book.
+</i>
+
+<br><br>
+
+</div>
+
+<table width="100%">
+<tr>
+<td align="center" width="33%" valign="top">
+
+**THE CREATIVE MIND**
+
+<br><br>
+
+<img src="https://covers.openlibrary.org/b/isbn/0465050654-M.jpg"
+     width="105"
+     alt="The Design of Everyday Things">
+
+<br><br>
+
+**The Design of Everyday Things**
+
+<sub>Don Norman</sub>
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+**THE ENGINEER'S MIND**
+
+<br><br>
+
+<img src="https://covers.openlibrary.org/b/isbn/0521456715-M.jpg"
+     width="105"
+     alt="The Art of Doing Science and Engineering">
+
+<br><br>
+
+**The Art of Doing Science and Engineering**
+
+<sub>Richard Hamming</sub>
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+**THE CURIOUS MIND**
+
+<br><br>
+
+<img src="https://covers.openlibrary.org/b/isbn/0393355624-M.jpg"
+     width="105"
+     alt="Surely You're Joking Mr Feynman">
+
+<br><br>
+
+**Surely You're Joking, Mr. Feynman!**
+
+<sub>Richard Feynman</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<br>
+
+<sub>✦ A LITTLE INSPIRATION FOR THE NEXT BIG IDEA ✦</sub>
+
+<br>
+
+<i>Books are little doors to worlds we haven't explored yet. 🍂</i>
+
+</div>
+
+<br>
+
+<!-- =====================================================
+     THE LEARNING GARDEN
+===================================================== -->
+
+<h2>🌱 The Learning Garden</h2>
 
 <p>
   <sub>A little progress every day. A little curiosity in everything.</sub>
 </p>
-
-<br>
 
 <table width="100%" border="0">
 <tr>
@@ -316,6 +461,7 @@ and the fascinating world of motion.
 ✦ Web development
 
 <br>
+
 <sub>Learning to bring ideas to life on the web.</sub>
 
 </td>
@@ -330,6 +476,7 @@ and the fascinating world of motion.
 ✦ Engineering design & simulation
 
 <br>
+
 <sub>Turning concepts into designs and models.</sub>
 
 </td>
@@ -346,6 +493,7 @@ and the fascinating world of motion.
 ✦ Exploring creative ways to build things
 
 <br>
+
 <sub>Because not every experiment needs to stay on paper.</sub>
 
 </td>
@@ -366,24 +514,104 @@ and the fascinating world of motion.
 
 <br>
 
-<p align="center">
-  <i>Still learning, still experimenting,<br>
-  still becoming.</i>
-  <br>
-  🌿 🌸 🌿
+<div align="center">
+
+<i>Still learning, still experimenting,<br>
+still becoming.</i>
+
+<br>
+
+🌿 🌸 🌿
+
+</div>
+
+<br>
+
+<!-- =====================================================
+     GITHUB JOURNAL / CHANGELOG
+===================================================== -->
+
+<a id="journal"></a>
+
+<div align="center">
+
+<h2>📓 The Workshop Journal</h2>
+
+<p>
+  <sub>Little notes from the process of becoming.</sub>
 </p>
 
-<!-- GITHUB STATISTICS -->
+</div>
 
-<h3>📊 Numbers From My Little Workshop</h3>
+### 🍂 Workshop Changelog
+
+*A little record of what has been happening around here.*
+
+<table width="100%">
+<tr>
+<td width="20%" valign="top">
+
+**2026**
+
+</td>
+<td valign="top">
+
+**THE WORKSHOP GETS A NEW CHAPTER**
+
+✦ Refreshed the personal GitHub workshop.
+
+✦ Built and developed ELEMENTA.
+
+✦ Started building KINETRA.
+
+✦ Explored mechanical engineering, web development and interactive projects.
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+**ONGOING**
+
+</td>
+<td valign="top">
+
+**THE EXPERIMENTS CONTINUE**
+
+✦ Exploring new engineering concepts.
+
+✦ Learning more about development and design.
+
+✦ Turning notebook ideas into real projects.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<sub>Every little improvement counts. Even the ones nobody sees. 🤎</sub>
+
+</div>
+
+<br>
+
+<!-- =====================================================
+     GITHUB STATISTICS
+===================================================== -->
+
+<div align="center">
+
+<h2>📊 Numbers From My Little Workshop</h2>
 
 <p>
   <sub>A few numbers telling the story of my journey so far.</sub>
 </p>
 
 <br>
-
-<div align="center">
 
 <img
   src="https://github-stats-extended.vercel.app/api?username=keerthananilkumar&show_icons=true&hide_border=true&bg_color=2B211B&title_color=D9B38C&text_color=E8DCCB&icon_color=9EAF87&ring_color=B88962"
@@ -399,18 +627,113 @@ and the fascinating world of motion.
 
 <br><br>
 
-<!-- PHILOSOPHY -->
+<sub>Numbers change. Curiosity stays. 🌱</sub>
+
+</div>
+
+<br>
+
+<!-- =====================================================
+     FREQUENTLY ASKED QUESTIONS
+===================================================== -->
+
+<a id="faq"></a>
 
 <div align="center">
 
-<h3>☕ A Little Philosophy</h3>
+<h2>💌 A Few Things You Might Wonder</h2>
+
+<p>
+  <sub>Little questions from visitors to my workshop.</sub>
+</p>
+
+</div>
+
+<details>
+<summary><b>🌷 Who is Keerthana?</b></summary>
+
+<br>
+
+I'm a Mechanical Engineering student who loves exploring the intersection of engineering, technology and creativity.
+
+I'm always curious about how things work and how I can build something of my own.
+
+</details>
+
+<details>
+<summary><b>⚙️ Why Mechanical Engineering?</b></summary>
+
+<br>
+
+Because machines, mechanisms and the science behind motion fascinate me.
+
+I love understanding how individual components come together to create something much bigger.
+
+</details>
+
+<details>
+<summary><b>💻 What am I currently building?</b></summary>
+
+<br>
+
+My main projects include:
+
+- **ELEMENTA:** An interactive educational periodic table.
+- **KINETRA:** A browser-based mechanical engineering playground.
+
+I'm always exploring new ideas for future projects, too.
+
+</details>
+
+<details>
+<summary><b>🌱 What am I currently learning?</b></summary>
+
+<br>
+
+I'm exploring web development, CAD tools, mechanical design, engineering simulations and game development.
+
+There is always something new to experiment with!
+
+</details>
+
+<details>
+<summary><b>🤝 Am I open to collaborations?</b></summary>
+
+<br>
+
+Absolutely! I'm interested in creative engineering projects, educational tools, interactive experiences and ideas that make learning more interesting.
+
+Feel free to connect through GitHub.
+
+</details>
+
+<details>
+<summary><b>☕ What happens in this little workshop?</b></summary>
+
+<br>
+
+A little engineering, a little coding, lots of curiosity, unfinished experiments, books and probably too many ideas.
+
+Welcome to the chaos!
+
+</details>
+
+<br>
+
+<!-- =====================================================
+     PHILOSOPHY
+===================================================== -->
+
+<div align="center">
+
+<h2>☕ A Little Philosophy</h2>
 
 <br>
 
 <i>
 "I believe every great invention begins with a little curiosity,
 a messy notebook, and the courage to ask
-<span>what if?</span>"
+what if?"
 </i>
 
 <br><br>
@@ -435,14 +758,16 @@ I'm building my own little corner of the world.
 
 </div>
 
-<!-- END PHILOSOPHY -->
+<br>
 
-<!-- FOOTER -->
+<!-- =====================================================
+     FOOTER
+===================================================== -->
 
 <div align="center">
 
 <p>
-  ✿ &nbsp; ✿ &nbsp; ✿
+  ﹏﹏﹏﹏﹏﹏﹏﹏﹏ ✿ ﹏﹏﹏﹏﹏﹏﹏﹏﹏
 </p>
 
 <p>
@@ -453,5 +778,12 @@ I'm building my own little corner of the world.
   <sub>Made with curiosity, coffee and a little bit of imagination. 🤎</sub>
 </p>
 
+<p>
+  <sub>© Keerthana · The Little Workshop · 2026</sub>
+</p>
+
 </div>
 
+<!-- =====================================================
+     END OF WORKSHOP JOURNAL
+===================================================== -->
